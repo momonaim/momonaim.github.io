@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 👨‍💻 All of my projects are available at [momonaim.github.io](momonaim.github.io)
+- 👨‍💻 All of my projects are available at [momonaim.github.io](https://momonaim.github.io)
 
 - 💬 Ask me about **C, Java, Swing, PL/SQL**
 
 - 📫 How to reach me **mouadili.abd.fst@uhp.ac.ma**
 
-- 📄 Know about my experiences [momonaim.github.io](momonaim.github.io)
+- 📄 Know about my experiences [momonaim.github.io](https://momonaim.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
