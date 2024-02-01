@@ -326,6 +326,12 @@ section {
 
 #experience {
   position: relative;
+  height: fit-content;
+}
+
+#experience2 {
+  position: relative;
+  height: fit-content;
 }
 
 .experience-sub-title {
@@ -334,11 +340,40 @@ section {
   font-size: 1.75rem;
   margin-bottom: 2rem;
 }
-
+.about-containers {
+  gap: 2rem;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
 .experience-details-container {
+  margin-top: 2rem;
   display: flex;
   justify-content: center;
   flex-direction: column;
+}
+.experience-details-container2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.exp-container {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+.exp-container2 {
+  padding: 1.5rem;
+  flex: 1;
+  background: white;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
 }
 
 .article-container {
@@ -428,6 +463,20 @@ article .icon {
   height: 2.5rem;
 }
 
+.top-link {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+
+.top-link:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+}
+
 /* FOOTER SECTION */
 
 footer {
@@ -438,3 +487,4 @@ footer {
 footer p {
   text-align: center;
 }
+
